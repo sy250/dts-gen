@@ -50,7 +50,7 @@
     "typescript": "^3.2.2",
     "typescript-eslint-parser": "^21.0.2",
     "webpack": "^4.29.6",
-    "webpack-cli": "^3.2.3"
+    "webpack-cli": "^3.3.0"
   },
   "bin": {
     "kintone-dts-gen": "dist/index.js"
